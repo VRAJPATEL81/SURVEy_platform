@@ -1,6 +1,7 @@
 # Survey Platform
 
-Purpose:
+# Purpose:
+
   The purpose of this website is to provide a convenient and efficient platform for administrators to create customer surveys,     collect valuable feedback, and facilitate the generation of online reviews. By offering a user-friendly interface and essential   features such as authentication, input validation, and anti-bot measures, the website aims to streamline the process of survey    creation and response management. Through this platform, administrators can gain valuable insights from customers without 
  requiring them to create an account, enabling a broader participation base.
 
@@ -29,6 +30,7 @@ View Survey Responses:
   Ability to filter, sort, and export survey responses for further analysis.
 
 Target Audience:
+
   The survey site caters to two main groups: staff members and survey respondents. Staff members, who primarily utilize the       
   platform, are responsible for creating and managing surveys on behalf of businesses or organizations. They possess a reasonable 
   level of technical proficiency and work towards gathering customer feedback to gain valuable insights for enhancing products, 
@@ -41,6 +43,7 @@ Target Audience:
   conveniently complete surveys without the need for creating an account.
 
 Tech stack:
+
   The survey site intends to utilize the MERN (MongoDB, Express.js, React.js, Node.js) stack as the foundation of its technology 
   stack. This stack combines popular and robust technologies to create a full-stack web application with seamless integration 
   between the front-end and back-end. React.js will serve as the front-end framework, offering a component-based approach for 
@@ -79,7 +82,7 @@ node server.js --> backend server
 [2] HTML
 [3] MATERIALIZED CSS
 
-##Student Details
+# Student Details
 
 JEET SONI  -- UI21EC64
 VRAJ PATEL -- UI21EC73
