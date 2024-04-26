@@ -1,6 +1,5 @@
 # Survey Platform
 
-**[Live Demo](https://xyz-mern-stack.herokuapp.com/)**
 
 #### Features
 
@@ -14,18 +13,13 @@
 #### Start Development server
 
 ```bash
-cd frontend
-npm install
-cd ..
-npm install
-npm run dev
+npm start      --> frontend server
+node server.js --> backend server
 ```
 
-#### Dependencies
+#### Language Used
 
-An Account on [mLab](https://mlab.com/). Get your [MongoDB URI](https://docs.mlab.com/connecting/) then export it as an environment variable MLAB_URI.
+[1] JAVASCRIPT
+[2] HTML
+[3] MATERIALIZED CSS
 
-```bash
-export MLAB_URI="YOUR_URI_HERE"
-export SECRET="a_very_long_secret"
-```
