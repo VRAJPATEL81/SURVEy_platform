@@ -1,0 +1,5 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const USER_LOADING = "USER_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const CREATE_SURVEY = "CREATE_SURVEY";
+export const ADD_QUESTION = "ADD_QUESTION"
